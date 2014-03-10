@@ -1,6 +1,3 @@
 Name: beanstalkd
-Cartridge-Short-Name: Beanstalkd
 Display-Name:  Beanstalkd 1.9
-Version: "1.9"
-Versions: ["1.9"]
-Website: https://github.com/JambooMobileSolutions/openshift-beanstalkd-cart.git
+Source-Url: git@github.com:JambooMobileSolutions/openshift-beanstalkd-cart.git
