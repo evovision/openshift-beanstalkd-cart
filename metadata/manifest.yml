@@ -1,0 +1,19 @@
+Name: beanstalkd
+Cartridge-Short-Name: Beanstalkd
+Display-Name:  Beanstalkd 1.9
+Version: "1.9"
+Versions: ["1.9"]
+Website: https://github.com/JambooMobileSolutions/openshift-beanstalkd-cart
+Cartridge-Version: 0.0.1
+Cartridge-Vendor: Jamboo Mobile Solutions
+Categories:
+  - services
+  - Qeue
+  - Beanstalk
+Provides:
+  - beanstalkd-1.9
+  - "beanstalkd"
+Scaling:
+  Min:  1
+  Max: -1
+
