@@ -1,4 +1,5 @@
 Name: beanstalkd
+Cartridge-Short-Name: BSTK
 Display-Name:  Beanstalkd 1.9
 Version: '0.1'
 Cartridge-Version: 0.0.1
