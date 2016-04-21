@@ -5,4 +5,4 @@ Version: '0.1'
 Cartridge-Version: 0.0.1
 Cartridge-Vendor: evovision
 License: "None"
-Source-Url: https://github.com/JambooMobileSolutions/openshift-beanstalkd-cart.git
+Source-Url: git://github.com/JambooMobileSolutions/openshift-beanstalkd-cart.git
